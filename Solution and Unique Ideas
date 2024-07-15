@@ -1,0 +1,6 @@
+The Toll System based on the Global Positioning System which is simply addressed as GPS is a great tool that can be used to implement Toll Revenue collection.
+This system can be built with the help of microchips and embedded python in an ideal real life scenario.
+In this project, we have simulated the functioning of such a system using basic python functions and libraries.
+In this project, I have incorporated real life nuances of the Indian Toll System and built  an Interactive UI which can be operated by any simple common man to pay their Toll Fare.
+The simulation UI has clear instructions and visual elements which make the system very easy to use and accessible for all.
+The UI stimulates a Toll System that is based on GPS.
