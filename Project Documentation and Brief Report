@@ -5,3 +5,18 @@ To Understand the frustration of waiting in long queues on busy days and to ease
 To increase the accuracy of the system by using GPS to track the movement of vehicles.
 To ensure a seamless travelling experience for the user as well as a sure and secure mode of collecting toll revenue for the authorities.
 
+Unique Ideas and Solutions:
+The Toll System based on the Global Positioning System which is simply addressed as GPS is a great tool that can be used to implement Toll Revenue collection.
+This system can be built with the help of microchips and embedded python in an ideal real life scenario.
+In this project, we have simulated the functioning of such a system using basic python functions and libraries.
+In this project, I have incorporated real life nuances of the Indian Toll System and built  an Interactive UI which can be operated by any simple common man to pay their Toll Fare.
+The simulation UI has clear instructions and visual elements which make the system very easy to use and accessible for all.
+The UI stimulates a Toll System that is based on GPS.
+
+Features ofered by the model:
+1) Vehicle Type Selection: A dropdown menu for users to select their vehicle type, which will affect the toll calculation.
+2) Interactive Map: An interactive map displaying toll points that users can click to select their route.
+3) Route Confirmation: Functionality for users to confirm their selected route.
+4) Toll Calculation: Calculation of total toll charges based on the selected route and vehicle type.
+5) Payment Simulation: An option for users to proceed to payment and a corresponding simulation of the payment process.
+6) Exit Options: Options to cancel the operation and exit the application at any point.
